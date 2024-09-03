@@ -5,7 +5,7 @@ const form_html = `<section class="form-section">
     <label for="">Email</label>
     <input
       id="email"
-      name="email"
+      name="gmail"
       type="email"
       placeholder="example@domain.com"
     />
